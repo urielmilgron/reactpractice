@@ -1,0 +1,31 @@
+Para crear una app de react => 
+Primero hay que instalar node LTS => https://nodejs.org/es/
+
+Una vez instalado en consola colocamos "node -v" y si se instaló correctamente
+tendría que aparecer la version de node js EJEMPLO=> v16.17.0
+
+"npx create-react-app nombreApp"(El nombre es opcional y 
+podes poner el que vos quieras)
+
+cd nombreDeLaApp
+
+npm start
+
+
+Cada componente se realiza como si fuese una función flecha. Puede recibir propiedades
+de otros componentes o no, a estas se las llama props, tienen lógica y retornan la parte visual
+
+EJEMPLO => 
+
+
+
+
+Hola ah que tal
+
+
+
+
+
+
+
+

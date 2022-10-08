@@ -1,0 +1,15 @@
+header{
+    height: 52px;
+    background-color: rgb(190, 190, 190);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav{
+    width: 90%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration: none;
+}
